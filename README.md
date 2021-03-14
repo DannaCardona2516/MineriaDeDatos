@@ -3,4 +3,4 @@
 Se hace este repositorio para realizar las actividades propuestas en el curso Minería de datos de la universidad Nacional de Colombia dictado por el profesor Alvaro Mauricio Montenegro Diaz 
 
 * [nbviewer](https://nbviewer.jupyter.org/github/DannaCardona2516/MineriaDeDatos/blob/main/Tareas/Tarea2_Miner%C3%ADa.ipynb)
-* [HTML](file:///Users/francisco/Downloads/Tarea2_Miner%C3%ADa.html)
+* [HTML](https://github.com/DannaCardona2516/MineriaDeDatos/blob/main/Tareas/Tarea2_Miner%C3%ADa.html)
